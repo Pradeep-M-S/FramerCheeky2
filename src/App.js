@@ -88,5 +88,7 @@ function App() {
   )
 }
 
-const rootElement = document.getElementById("root")
-render(<App />, rootElement)
+// const rootElement = document.getElementById("root")
+// render(<App />, rootElement)
+
+export default App
